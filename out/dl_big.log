@@ -1,0 +1,16 @@
+downloading 10 symbols 2025-10-01 .. 2026-10-28 -> /workspace/nfb-data-big
+[1/10] ETHUSDT {'fut': 'ETHUSDT', 'spot': 'ETHUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[2/10] SOLUSDT {'fut': 'SOLUSDT', 'spot': 'SOLUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[3/10] BNBUSDT {'fut': 'BNBUSDT', 'spot': 'BNBUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[4/10] BTCUSDT {'fut': 'BTCUSDT', 'spot': 'BTCUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[5/10] TRXUSDT {'fut': 'TRXUSDT', 'spot': 'TRXUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[6/10] XRPUSDT {'fut': 'XRPUSDT', 'spot': 'XRPUSDT', 'fut_rows': 9408, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[7/10] DOGEUSDT {'fut': 'DOGEUSDT', 'spot': 'DOGEUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[8/10] LINKUSDT {'fut': 'LINKUSDT', 'spot': 'LINKUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[9/10] ADAUSDT {'fut': 'ADAUSDT', 'spot': 'ADAUSDT', 'fut_rows': 9480, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+[10/10] ZECUSDT {'fut': 'ZECUSDT', 'spot': 'ZECUSDT', 'fut_rows': 9408, 'spot_rows': 9408, 'funding_rows': 1188, 'funding_api_ok': True}
+done
+3920 symbol-days to fetch
+done -> /workspace/nfb-data-big/oi_hourly
+{'ok': 10}
+DONE

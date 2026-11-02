@@ -1,0 +1,7 @@
+holdings*
+*.xlsx
+*cap*.csv
+superseded/
+__pycache__/
+*.pyc
+.env

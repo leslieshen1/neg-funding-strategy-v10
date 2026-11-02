@@ -1,0 +1,39 @@
+set,kind,key,coin_hours
+pool267,month,2025-10,5
+pool267,month,2025-11,4
+pool267,month,2025-12,7
+pool267,month,2026-01,4
+pool267,month,2026-02,11
+pool267,month,2026-03,19
+pool267,month,2026-04,8
+pool267,month,2026-05,7
+pool267,month,2026-06,9
+pool267,month,2026-07,32
+pool267,month,2026-08,40
+pool267,month,2026-09,3
+pool267,month,2026-10,370
+pool267,top_hour_utc,2026-10-15 13:00:00+00:00,188
+pool267,top_hour_utc,2026-10-15 14:00:00+00:00,161
+pool267,top_hour_utc,2026-10-15 12:00:00+00:00,10
+pool267,top_hour_utc,2026-10-15 11:00:00+00:00,5
+pool267,top_hour_utc,2026-10-15 15:00:00+00:00,5
+pool267,top_hour_utc,2026-08-16 20:00:00+00:00,3
+pool267,top_hour_utc,2026-03-21 00:00:00+00:00,2
+pool267,top_hour_utc,2026-02-17 12:00:00+00:00,2
+pool267,top_hour_utc,2026-07-25 00:00:00+00:00,2
+pool267,top_hour_utc,2026-07-26 10:00:00+00:00,2
+big_set,month,2025-10,0
+big_set,month,2025-11,0
+big_set,month,2025-12,0
+big_set,month,2026-01,0
+big_set,month,2026-02,0
+big_set,month,2026-03,0
+big_set,month,2026-04,0
+big_set,month,2026-05,0
+big_set,month,2026-06,0
+big_set,month,2026-07,0
+big_set,month,2026-08,0
+big_set,month,2026-09,0
+big_set,month,2026-10,15
+big_set,top_hour_utc,2026-10-15 14:00:00+00:00,8
+big_set,top_hour_utc,2026-10-15 13:00:00+00:00,7
